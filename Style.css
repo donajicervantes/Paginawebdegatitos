@@ -1,0 +1,25 @@
+body{
+color: aliceblue;
+/*Ponerle color al fondo*/
+background-color: #cabaa6;
+font-family: font-family: 'Raleway', sans-serif;
+}
+/*Cambiar color de titulos*/
+h1{
+    color: #f1d47c; 
+    font-size: 60px;
+}
+
+h3 {
+    color: #ce945a;
+}
+/*Cambiar tamaño de la imagén width: ancho height: largo*/
+img{
+    width: 400px;
+    padding: 20px;
+    margin: 20px
+}
+         
+footer{
+    background-color: #f6a8df;
+}
